@@ -5,7 +5,6 @@ Help Loop Project
 
 🛠️ Tools Used : 
 
-
  Excel Dashboard
  Power Automate
  SharePoint 
